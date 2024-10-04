@@ -52,8 +52,8 @@ body {
 
 /* Hero Section */
 .hero-section {
-    background-image: url('../Images/GIF/stars-7088.gif');
-    background-size: auto;
+    background-image: url('Images/GIF/stars-7088.gif');
+    background-size: contain;
     background-position: center;
     text-align: center;
     padding: 120px ;
